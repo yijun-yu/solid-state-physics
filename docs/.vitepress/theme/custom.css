@@ -51,25 +51,21 @@
 }
 
 /* Monochrome academic figures: crisp in both light and dark mode */
-.vp-doc figure.diagram {
-  margin: 16px auto;
-  text-align: center;
-}
-
-.vp-doc figure.diagram img {
+.vp-doc img[src*="figures/"] {
   display: block;
-  margin: 0 auto;
+  margin: 16px auto 6px auto;
   max-width: 100%;
   height: auto;
 }
 
-.vp-doc figure.diagram figcaption {
-  margin-top: 6px;
+.vp-doc p.fig-caption {
+  margin: 0 0 18px 0;
+  text-align: center;
   font-size: 0.85rem;
   color: var(--vp-c-text-2);
 }
 
-.dark .vp-doc figure.diagram img {
+.dark .vp-doc img[src*="figures/"] {
   filter: invert(0.92) hue-rotate(180deg);
 }
 
