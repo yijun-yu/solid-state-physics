@@ -37,11 +37,11 @@ next:
 | 玻尔兹曼常数 | $k_B$ | $1.381 \times 10^{-23}\ \mathrm{J/K} = 8.617 \times 10^{-5}\ \mathrm{eV/K}$ |
 | 室温热电压（$300\ \mathrm{K}$） | $k_B T$ | $0.02585\ \mathrm{eV} \approx 26\ \mathrm{meV}$ |
 | 真空介电常数 | $\varepsilon_0$ | $8.854 \times 10^{-12}\ \mathrm{F/m}$ |
-| 玻尔半径 | $a_B$ | $0.529\ \text{\AA} = 5.29 \times 10^{-11}\ \mathrm{m}$ |
+| 玻尔半径 | $a_B$ | $0.529\ \text{Å} = 5.29 \times 10^{-11}\ \mathrm{m}$ |
 | 氢原子基态电离能 | $E_0$ | $13.6\ \mathrm{eV}$ |
 
 ## 体例约定
 
 - 题目编号格式为 `CHxx-KPy-zz`（章号—知识点号—题号）。
 - 倒格矢统一采用物理学约定：$\mathbf{b}_1 = 2\pi\frac{\mathbf{a}_2\times\mathbf{a}_3}{\mathbf{a}_1\cdot(\mathbf{a}_2\times\mathbf{a}_3)}$，$\mathbf{a}_i\cdot\mathbf{b}_j = 2\pi\delta_{ij}$。
-- $1\ \text{\AA} = 10^{-10}\ \mathrm{m}$，$1\ \mathrm{eV} = 1.602 \times 10^{-19}\ \mathrm{J}$。
+- $1\ \text{Å} = 10^{-10}\ \mathrm{m}$，$1\ \mathrm{eV} = 1.602 \times 10^{-19}\ \mathrm{J}$。
