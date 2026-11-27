@@ -43,7 +43,7 @@
   $$\sigma = \frac{n e^2 \tau(E_F)}{m} = n e \mu_e, \qquad l = v_F \tau$$
 - **马西森定则**：声子散射与静态杂质/缺陷散射几率相加，$\rho(T) = \rho_0 + \rho_{\text{ph}}(T)$（高温 $T \gg \Theta_D$ 时 $\rho_{\text{ph}} \propto T$，极低温 $\rho_{\text{ph}} \propto T^5$；剩余电阻率 $\rho_0$ 与温度无关）。
 - **电子热导率与维德曼-弗朗茨定律**：
-  $$\kappa_e = \frac{1}{3}c_{Ve} v_F^2 \tau = \frac{\pi^2 n k_B^2 T \tau}{3m}, \qquad \frac{\kappa_e}{\sigma T} = L = \frac{\pi^2}{3}\left(\frac{k_B}{e}\right)^2 \approx 2.44 \times 10^{-8}\ \mathrm{W\cdot\Omega/K^2}$$
+  $$\begin{aligned} \kappa_e &= \frac{1}{3}c_{Ve} v_F^2 \tau = \frac{\pi^2 n k_B^2 T \tau}{3m} \\ \frac{\kappa_e}{\sigma T} &= L = \frac{\pi^2}{3}\left(\frac{k_B}{e}\right)^2 \approx 2.44 \times 10^{-8}\ \mathrm{W\cdot\Omega/K^2} \end{aligned}$$
   该定律在弹性散射占主导（高温 $T \gtrsim \Theta_D$ 或极低温杂质散射区）时成立良好。
 :::
 
@@ -349,7 +349,7 @@ $$\int_0^\infty H(E) f(E)\,\mathrm{d}E \approx \int_0^\mu H(E)\,\mathrm{d}E + \f
 
 ![金属接触电势差与外电场下费米球平移](/figures/ch04-contact-transport.svg)
 
-<p class="fig-caption">图 4-2 热平衡时的金属接触电势差（$W_A < W_B$）与外电场下的费米球平移</p>
+<p class="fig-caption">图 4-2 热平衡时的金属接触电势差（<em>W</em><sub>A</sub> &lt; <em>W</em><sub>B</sub>）与外电场下的费米球平移</p>
 
 #### 概念选择与填空
 

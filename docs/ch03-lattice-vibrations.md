@@ -50,7 +50,7 @@
 
 ![一维单原子链与双原子链色散关系](/figures/ch03-dispersion-chains.svg)
 
-<p class="fig-caption">图 3-1 一维单原子链与一维双原子链（$M > m$）的晶格振动色散曲线</p>
+<p class="fig-caption">图 3-1 一维单原子链与一维双原子链（<em>M</em> &gt; <em>m</em>）的晶格振动色散曲线</p>
 
 ## 习题及参考解答
 
