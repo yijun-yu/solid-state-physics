@@ -22,7 +22,7 @@
 
 | 方法 | 物理出发点 | 适用体系 | 核心结果 |
 | :--- | :--- | :--- | :--- |
-| 近自由电子近似（平面波法） | 弱周期势 $V(\mathbf{r}) = \sum_{\mathbf{G}} V_{\mathbf{G}} e^{i\mathbf{G}\cdot\mathbf{r}}$ 作为微扰 | 简单金属（碱金属、Al 等）$s/p$ 价带 | 在布拉格面 $2\mathbf{k}\cdot\mathbf{G} + G^2 = 0$ 处简并态混合成驻波，打开能隙 $E_g = 2|V_{\mathbf{G}}|$ |
+| 近自由电子近似（平面波法） | 弱周期势 $V(\mathbf{r}) = \sum_{\mathbf{G}} V_{\mathbf{G}} e^{i\mathbf{G}\cdot\mathbf{r}}$ 作为微扰 | 简单金属（碱金属、Al 等）$s/p$ 价带 | 在布拉格面 $2\mathbf{k}\cdot\mathbf{G} + G^2 = 0$ 处简并态混合成驻波，打开能隙 $E_g = 2\lvert V_{\mathbf{G}}\rvert$ |
 | 紧束缚近似（LCAO 法） | 孤立原子轨道线性组合 $\sum_l e^{i\mathbf{k}\cdot\mathbf{R}_l}\phi(\mathbf{r}-\mathbf{R}_l)$ | 窄能带（过渡金属 $d$ 带、绝缘体价带、分子晶体） | $E(\mathbf{k}) = E_0 - \alpha - J\sum_{\boldsymbol{\delta}} e^{i\mathbf{k}\cdot\boldsymbol{\delta}}$，交叠越强带宽越宽 |
 
 - **三维立方晶格 $s$ 态紧束缚能带**（仅计最近邻 $J > 0$）：
